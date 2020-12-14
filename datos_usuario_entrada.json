@@ -1,0 +1,37 @@
+{
+    "tipoEnvio": "Email",
+    "tipoEmail": "Persona",
+    "strIdCliente": {
+        "tipoDocumento": "NIF",
+        "idCliente": "2345345"
+    },
+    "strIdPoliza": {
+        "codProducto": "8282883",
+        "numPoliza": "12345",
+        "añoEmisionPoliza": "2020",
+        "tipoDocumento": "CIF",
+        "idCliente": "11222333Y",
+        "rol": "PA"
+    },
+    "strIdSiniestro": {
+        "codProducto":"8282883",
+        "numPoliza":"12345",
+        "añoEmisionPoliza":2019,
+        "añoApertura":2000,
+        "numSiniestro":"23y2y3y2y2y"
+    },
+    "textoSms": "textoSms",
+    "asuntoEmail": "asuntoEmail",
+    "textoEmail": "jjjjj",
+    "fechaEnvio": "2020-12-01",
+    "numTelefono": "917788989",
+    "direccionEmail": "jfk1@gmail.com",
+    "rolDestinatario": "BE",
+    "strDocumentoAdjunto":{
+        "idArchiv": "287848234872384",
+        "idUsuario": "2343824826",
+        "codMedia": 1111,
+        "codOfici": 2222
+    }
+
+}
